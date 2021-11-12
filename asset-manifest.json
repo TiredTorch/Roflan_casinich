@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/roflan_casinich/static/css/main.624a3cf8.chunk.css",
-    "main.js": "/roflan_casinich/static/js/main.ca6ad24d.chunk.js",
-    "main.js.map": "/roflan_casinich/static/js/main.ca6ad24d.chunk.js.map",
+    "main.js": "/roflan_casinich/static/js/main.b96771f5.chunk.js",
+    "main.js.map": "/roflan_casinich/static/js/main.b96771f5.chunk.js.map",
     "runtime-main.js": "/roflan_casinich/static/js/runtime-main.c7aa66f2.js",
     "runtime-main.js.map": "/roflan_casinich/static/js/runtime-main.c7aa66f2.js.map",
     "static/js/2.c0029617.chunk.js": "/roflan_casinich/static/js/2.c0029617.chunk.js",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.c7aa66f2.js",
     "static/js/2.c0029617.chunk.js",
     "static/css/main.624a3cf8.chunk.css",
-    "static/js/main.ca6ad24d.chunk.js"
+    "static/js/main.b96771f5.chunk.js"
   ]
 }
