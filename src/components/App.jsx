@@ -17,7 +17,7 @@ function App(props) {
         StartBlackJack = {props.StartBlackJack}
         PointCheck = {props.PointCheck}
         />}/>
-        <Route exact path='/Main' element={<Main SwitchPopUp={props.SwitchPopUp}/>}/>
+        <Route exact path='/' element={<Main SwitchPopUp={props.SwitchPopUp}/>}/>
       </Routes>
       <Status state={props.state}/>
       

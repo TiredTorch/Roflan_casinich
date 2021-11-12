@@ -9,7 +9,7 @@ import Soon from '../img/coming.png';
 const Nav = () => {
     return (
         <nav class='navchik'>
-            <Routeitem src={Icon} link={'/Main'} name='dfsdf'/>
+            <Routeitem src={Icon} link={'/'} name='dfsdf'/>
             <Routeitem src={BJ} link={'/BJ'} name='Блекджек'/>
             <Routeitem src={Soon} link={'#'} name='Автоматы (В разработке)'/>
             <Routeitem src={Soon} link={'#'} name='Предсказания (В разработке)'/>
