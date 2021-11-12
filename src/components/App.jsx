@@ -10,14 +10,14 @@ function App(props) {
     <BrowserRouter>
       <Nav/>
       <Routes>
-        <Route path='/roflan_casinich/BJ' element={<Bj
+        <Route path='/BJ' element={<Bj
         SwitchPopUp = {props.SwitchPopUp}
         RmPopUpBJ = {props.RmPopUpBJ} 
         TakeCard = {props.TakeCard} 
         StartBlackJack = {props.StartBlackJack}
         PointCheck = {props.PointCheck}
         />}/>
-        <Route exact path='/roflan_casinich/Main' element={<Main SwitchPopUp={props.SwitchPopUp}/>}/>
+        <Route exact path='/Main' element={<Main SwitchPopUp={props.SwitchPopUp}/>}/>
       </Routes>
       <Status state={props.state}/>
       
